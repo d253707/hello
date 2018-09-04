@@ -6,3 +6,5 @@ int main()
    cout<<"My name is Vasya!"<<endl;
    return 0;
 }
+
+Marol 
